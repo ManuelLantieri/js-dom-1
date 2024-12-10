@@ -5,16 +5,16 @@
     margin: 0;
 }
 
-#lamp {
+img {
     vertical-align: middle;
 }
 
-.button {
+button {
     font-size: 30px;
     padding: 20px;
 }
 
-.hidden {
+.d-none {
     display: none;
 }
 
